@@ -16,7 +16,7 @@ public class Fahrenheit
 	public double getCelsius()
 	{
 		//add code to convert fahrenheit to celsius
-		double celsius = (fahrenheit - 5)*5/9;
+		double celsius = ((fahrenheit - 32) * 5 / 9);
 
 		return celsius;
 	}

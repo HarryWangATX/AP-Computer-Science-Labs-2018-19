@@ -20,12 +20,19 @@ public class AverageRunner
  		Average avg = new Average();
 
  		// call the setNums method and pass it 2 values
-    for(int i = 0; i < 10; i++)
+  /*  for(int i = 0; i < 10; i++)
     {
       avg.setNums((int)(Math.random()*100), (int)(Math.random()*100));
       avg.average();
       avg.print();
     }
+	*/
+		while(true)
+		{
+      avg.setNums((int)(Math.random()*100), (int)(Math.random()*100));
+      avg.average();
+      avg.print();
+		}
 
  		// call the average method which will calculate the average
 

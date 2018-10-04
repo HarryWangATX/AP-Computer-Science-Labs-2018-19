@@ -22,6 +22,18 @@ public class CubeRunner
 	 	test.calculateSurfaceArea();
 	 	test.print();
 
+		test.setSide(10);
+	 	test.calculateSurfaceArea();
+	 	test.print();
+
+		test.setSide(20);
+	 	test.calculateSurfaceArea();
+	 	test.print();
+
+		test.setSide(40);
+	 	test.calculateSurfaceArea();
+	 	test.print();
+
 	 	//add more test cases
 
 

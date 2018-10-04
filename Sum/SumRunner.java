@@ -24,6 +24,22 @@ public class SumRunner
 		test.sum();
 		test.print();
 
+		test.setNums(100.5,85.8);
+		test.sum();
+		test.print();
+
+		test.setNums(-100,55);
+		test.sum();
+		test.print();
+
+		test.setNums(15236,5642);
+		test.sum();
+		test.print();
+
+		test.setNums(1000,555);
+		test.sum();
+		test.print();
+
 
 
 

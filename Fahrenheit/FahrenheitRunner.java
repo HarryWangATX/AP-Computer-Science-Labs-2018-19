@@ -18,7 +18,35 @@ public class FahrenheitRunner
 
 			Fahrenheit one = new Fahrenheit();
 
-			one.setFahrenheit(Math.random()*200);
+			one.setFahrenheit(98.6);
+			System.out.print("Fahrenheit :: ");
+			one.printFahrenheit();
+			System.out.print("Celsius :: ");
+			one.getCelsius();
+			one.print();
+
+			one.setFahrenheit(52.3);
+			System.out.print("Fahrenheit :: ");
+			one.printFahrenheit();
+			System.out.print("Celsius :: ");
+			one.getCelsius();
+			one.print();
+
+			one.setFahrenheit(82.45);
+			System.out.print("Fahrenheit :: ");
+			one.printFahrenheit();
+			System.out.print("Celsius :: ");
+			one.getCelsius();
+			one.print();
+
+			one.setFahrenheit(75);
+			System.out.print("Fahrenheit :: ");
+			one.printFahrenheit();
+			System.out.print("Celsius :: ");
+			one.getCelsius();
+			one.print();
+
+			one.setFahrenheit(100);
 			System.out.print("Fahrenheit :: ");
 			one.printFahrenheit();
 			System.out.print("Celsius :: ");

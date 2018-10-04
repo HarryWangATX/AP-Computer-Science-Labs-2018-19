@@ -6,7 +6,7 @@
 
 public class Line
 {
-	private double xOne,yOne, xTwo, yTwo;
+	private int xOne,yOne, xTwo, yTwo;
 	private double slope;
 
 	public Line(int x1, int y1, int x2, int y2) // this is the constructor
@@ -27,7 +27,7 @@ public class Line
 
 	public void calculateSlope()
 	{
-    slope = (yTwo - yOne)/(xTwo - xOne);
+    slope = ((double)yTwo - (double)yOne)/((double)xTwo - (double)xOne);
 	}
 
 	public void print()

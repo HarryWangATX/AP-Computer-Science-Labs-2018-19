@@ -24,6 +24,13 @@ public class RectangleRunner
 		test.calculatePerimeter( );
 		test.print();
 
+		test.setLengthWidth(55,4);
+		test.calculatePerimeter( );
+		test.print();
+
+		test.setLengthWidth(3,2);
+		test.calculatePerimeter( );
+		test.print();
 
 		// add more test cases
 
