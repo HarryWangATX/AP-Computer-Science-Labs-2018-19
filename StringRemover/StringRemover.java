@@ -15,8 +15,7 @@ public class StringRemover
 
   public StringRemover()
   {
-    sentence = "";
-    remove = "";
+    super();
   }
 
   public StringRemover(String a, String b)
@@ -33,13 +32,16 @@ public class StringRemover
 
 	public String removeStrings()
 	{
+		char[] stilpYoov = remove.toCharArray();
     String cleaned = sentence;
 
-    for(String a : getRemoveArray())
+    for(char a : stilpYoov)
     {
-      System.out.println("rart" + cleaned);
-      cleaned.replaceAll(a, "");
+      String replace = a+"";
+
+      cleaned = cleaned.replaceAll(replace,"");
     }
+
 		return cleaned;
 	}
 
@@ -47,14 +49,4 @@ public class StringRemover
 	{
 		return removeStrings();
 	}
-
-  public String[] getRemoveArray()
-  {
-    String[] output = new String[remove.length()];
-    for(int i = 0; i < remove.length(); i++)
-    {
-      output[i] = remove.charAt(i) + "";
-    }
-    return output;
-  }
 }

@@ -24,58 +24,25 @@ public class WordRunner
 		out.println();		
 		out.println();
 
+		Word justStilp = new Word("Hello");
+		System.out.println(justStilp);
+		System.out.println();
 
-		// STEP 1: **************************************************
-		// create a Word object and pass it the String "Hello"
-		//     this will store "Hello" inside the object
+		justStilp.setString("World");
+		System.out.println(justStilp);
+		System.out.println();
 
-		// Word obj = ???  ???("Hello");
+		justStilp.setString("JukeBox");
+		System.out.println(justStilp);
+		System.out.println();
 
+		justStilp.setString("TCEA");
+		System.out.println(justStilp);
+		System.out.println();
 
-
-		// STEP 2: **************************************************
-		// print out "Original Word: " and join onto it
-		//    what the toString() method of obj returns
-
-		// out.println("Original Word: " + obj.???());
-
-
-
-		// STEP 3: **************************************************
-		// print out
-		// First Letter:  and then the first letter of word
-		// call a method of the Word object referenced by obj
-
-		// out.println("First Letter:  " + obj.???());
-
-
-		// STEP 4: **************************************************
-		// print out
-		// Last Letter:  and then the last letter of word
-		// call a method of the Word object referenced by obj
-
-		// out.println("Last Letter:   " + obj.???());
-
-
-
-		// STEP 5: **************************************************
-		// print out
-		// Backwards:  and then the word backwards
-		// call a method of the Word object referenced by obj
-
-		// out.println("Backwards:     " + obj.???());
-
-
-
-		// Step 6: **************************************************
-		// print two blank lines
-
-
-
-
-		// add test cases
-
-
+		justStilp.setString("UIL");
+		System.out.println(justStilp);
+		System.out.println();
 
 	}
 }

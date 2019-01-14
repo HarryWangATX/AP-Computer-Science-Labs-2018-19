@@ -31,15 +31,15 @@ public class TwoToTen
 	{
 		long ten = 0;
 
-    for(int i = 0; i < binary.length(); i++)
-		{
-			if(binary.charAt(i) == '1')
+		for(int i = 0; i < binary.length(); i++)
 			{
-				ten += Math.pow(2,binary.length() - i);
+				if(binary.charAt(i) == '1')
+				{
+					ten += Math.pow(2,binary.length() - i);
+				}
 			}
-		}
 
-    return ten/2;
+		return ten/2;
 	}
 
 	public String toString()

@@ -27,9 +27,9 @@ public class StringRemoverRunner
 		out.println();
 		out.println();
 
-    StringRemover test = new StringRemover("xR-MxR-MHelloxR-M","R-M");
+		StringRemover test = new StringRemover("R-MR-MHelloR-M","R-M");
     System.out.println(test);
-    test.setRemover("sxsssxssxsxssexssxsesss", "xs");
+    test.setRemover("sxsssxssxsxssexssxsesss", "x");
     System.out.println(test);
     test.setRemover("fuxqwexqwertyxqwexqwertyrtyxqwertyrtyn", "qwerty");
     System.out.println(test);

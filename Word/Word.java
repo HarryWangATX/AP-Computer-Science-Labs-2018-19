@@ -14,21 +14,21 @@ public class Word
 
 	public Word()
 	{
-
+		word = "";
 	}
 
 
 
 	public Word(String s)
 	{
-
+		word = s;
 	}
 
 
 
 	public void setString(String s)
 	{
-
+		word = s;
 	}
 
 
@@ -57,7 +57,10 @@ public class Word
 		// join it (concatenate) onto back
 		// back = back + word.charAt(?);
 
-
+		for(int i = word.length()-1; i >= 0; i--)
+		{
+			back += word.charAt(i);
+		}
 
 
 		return back;
@@ -68,6 +71,6 @@ public class Word
  	public String toString()
  	{
  		// return the value of your instance variable word
- 		return ""; // replace me
+ 		return "Original word: " + word + "\n" + "firstLetter: " + word.charAt(0) + "\n" + "lastLetter: " + word.charAt(word.length() - 1) + "\n" + getBackWards(); // replace me
 	}
 }
