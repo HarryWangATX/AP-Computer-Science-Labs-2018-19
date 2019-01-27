@@ -11,12 +11,11 @@ public class DigitMath
 
    private static int countDigits( int number )
 	{
-		int count = 0;
-
+		String yuv = number + "";
 		// look back at a previous lab for help
 
 
-		return count;
+		return yuv.length();
 	}
 
 
@@ -26,7 +25,12 @@ public class DigitMath
 
 		// look back at a previous lab for help
 
+    String stilp = number + "";
 
+    for(char a : stilp.toCharArray())
+    {
+      sum += Integer.parseInt(a + "");
+    }
 
 		return sum;
 	}
@@ -35,6 +39,8 @@ public class DigitMath
 	public static double averageDigits( int number )
 	{
 		double average = 0.0;
+
+    average = ((sumDigits(number) + 0.0)/countDigits(number));
 
 		// you can call other static methods
 		// you do not need the name of the class
@@ -45,6 +51,6 @@ public class DigitMath
 		//    a little casting may help you or multiply by 1.0
 
 
-		return 0.0; // replace me with returning the average
+		return average; // replace me with returning the average
 	}
 }

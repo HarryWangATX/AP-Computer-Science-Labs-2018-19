@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99b9a400-fb38-4eb9-a6e5-5b530b481d2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BiggestDouble/BiggestDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BiggestDouble/DoubleRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RockPaperScissors/RPSRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RockPaperScissors/RockPaperScissors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringRemover/StringRemover.class" beforeDir="false" afterPath="$PROJECT_DIR$/StringRemover/StringRemover.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringRemover/StringRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringRemover/StringRemover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringRemover/StringRemoverRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/StringRemover/StringRemoverRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringRemover/StringRemoverRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringRemover/StringRemoverRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TwoToTen/TwoToTen.java" beforeDir="false" afterPath="$PROJECT_DIR$/TwoToTen/TwoToTen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Word/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/Word/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Word/WordRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Word/WordRunner.java" afterDir="false" />
+    <list default="true" id="539461bc-478b-4f05-9903-bc48a829a866" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/AP-Computer-Science-Labs-2018-19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RockPaperScissors/RPSRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/RockPaperScissors/RPSRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RockPaperScissors/RockPaperScissors.java" beforeDir="false" afterPath="$PROJECT_DIR$/RockPaperScissors/RockPaperScissors.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +17,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RockPaperScissors/RockPaperScissors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-642">
+              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,71 +35,30 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BiggestDouble/DoubleRunner.java" />
-        <option value="$PROJECT_DIR$/BiggestDouble/BiggestDouble.java" />
-        <option value="$PROJECT_DIR$/RockPaperScissors/RPSRunner.java" />
-        <option value="$PROJECT_DIR$/TwoToTen/TwoToTen.java" />
         <option value="$PROJECT_DIR$/RockPaperScissors/RockPaperScissors.java" />
-        <option value="$PROJECT_DIR$/Word/Word.java" />
-        <option value="$PROJECT_DIR$/Word/WordRunner.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="43" />
-    <option name="width" value="1400" />
-    <option name="height" value="786" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="827" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AP-Computer-Science-Labs-2018-19" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AP-Computer-Science-Labs-2018-19" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AP-Computer-Science-Labs-2018-19" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AP-Computer-Science-Labs-2018-19" type="462c0819:PsiDirectoryNode" />
-              <item name="BiggestDouble" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AP-Computer-Science-Labs-2018-19" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AP-Computer-Science-Labs-2018-19" type="462c0819:PsiDirectoryNode" />
-              <item name="TriangleOne" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AP-Computer-Science-Labs-2018-19" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AP-Computer-Science-Labs-2018-19" type="462c0819:PsiDirectoryNode" />
-              <item name="TwoToTen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AP-Computer-Science-Labs-2018-19" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AP-Computer-Science-Labs-2018-19" type="462c0819:PsiDirectoryNode" />
-              <item name="Word" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547246614273" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547498650552" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
-  </component>
-  <component name="RunAnythingCache">
-    <option name="myCommands">
-      <command value="java DoubleRunner" />
-    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -107,40 +72,62 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="BoxRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoxRunner" />
+      <module name="AP-Computer-Science-Labs-2018-19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BoxRunner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="99b9a400-fb38-4eb9-a6e5-5b530b481d2b" name="Default Changelist" comment="" />
-      <created>1547242636321</created>
+      <changelist id="539461bc-478b-4f05-9903-bc48a829a866" name="Default Changelist" comment="" />
+      <created>1547493417934</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547242636321</updated>
+      <updated>1547493417934</updated>
+      <workItem from="1547493421464" duration="50000" />
+      <workItem from="1547493533454" duration="950000" />
+      <workItem from="1547504606858" duration="17000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1017000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="43" width="1400" height="786" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="827" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24606581" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.044247787" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.31101814" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -149,100 +136,41 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BiggestDouble/DoubleRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-254">
-          <folding>
-            <element signature="e#0#984#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BiggestDouble/BiggestDouble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1092">
-          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BiggestDouble/DoubleRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TwoToTen/TwoToTen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#673#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="92">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TriangleOne/TriangleOne.java">
+    <entry file="file://$PROJECT_DIR$/Box/BoxRunner.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Box/BoxRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-607">
-          <folding>
-            <element signature="e#0#1064#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="93">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RockPaperScissors/RPSRunner.java">
+    <entry file="file://$PROJECT_DIR$/DistanceTwo/Distance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#903#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="92">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RockPaperScissors/RockPaperScissors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#0#622#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Word/WordRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#1733#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Word/Word.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1541">
-          <caret line="73" column="163" selection-start-line="73" selection-start-column="163" selection-end-line="73" selection-end-column="163" />
-          <folding>
-            <element signature="e#0#753#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-642">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
         </state>
       </provider>
     </entry>

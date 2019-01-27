@@ -32,7 +32,13 @@ public class DigitMathRunner
 		//     when your program starts up.
 		// So, we will call the averageDigits() method inside a println() method
 
-		// out.println(234 + " has a digit average of " + ??????.averageDigits(234));
+		out.println(234 + " has a digit average of " + DigitMath.averageDigits(234));
+		out.println(10000 + " has a digit average of " + DigitMath.averageDigits(10000));
+		out.println(111 + " has a digit average of " + DigitMath.averageDigits(111));
+		out.println(9005 + " has a digit average of " + DigitMath.averageDigits(9005));
+		out.println(84645 + " has a digit average of " + DigitMath.averageDigits(84645));
+		out.println(8547 + " has a digit average of " + DigitMath.averageDigits(8547));
+		out.println(123456789 + " has a digit average of " + DigitMath.averageDigits(123456789));
 		out.println();
 
 

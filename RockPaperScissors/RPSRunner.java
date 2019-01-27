@@ -24,19 +24,20 @@ public class RPSRunner
         out.println();
 
         Scanner keyboard = new Scanner(System.in);
-        char response;
+        RockPaperScissors test = new RockPaperScissors();
+        String input = "";
 
-        //add in a do while loop after you get the basics up and running
+        do {
+          System.out.print("Enter a value [R/P/S] :: ");
+          input = keyboard.next();
+          test.setPlayers(input);
 
-        String player = "";
+          System.out.println("Player :: " + input);
+          System.out.println("CPU :: " + test.getCPU());
 
-        out.print("type in your prompt [R,P,S] :: ");
+          System.out.println("Winner :: " + test.getResult());
+        } while (!test.hasPlayerWon);
 
-        //read in the player value
-
-        RockPaperScissors game = new RockPaperScissors();
+        //read in the player value\
     }
 }
-
-
-
