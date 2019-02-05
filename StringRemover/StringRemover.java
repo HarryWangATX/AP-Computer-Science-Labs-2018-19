@@ -32,7 +32,7 @@ public class StringRemover
 
 	public String removeStrings()
 	{
-		char[] stilpYoov = remove.toCharArray();
+    char[] stilpYoov = remove.toCharArray();
     String cleaned = sentence;
 
     for(char a : stilpYoov)
@@ -40,6 +40,7 @@ public class StringRemover
       String replace = a+"";
 
       cleaned = cleaned.replaceAll(replace,"");
+      cleaned = cleaned.replaceAll((char)((int)a - 1) + "", "");
     }
 
 		return cleaned;

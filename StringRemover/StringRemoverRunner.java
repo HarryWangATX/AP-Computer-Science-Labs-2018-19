@@ -28,10 +28,13 @@ public class StringRemoverRunner
 		out.println();
 
 		StringRemover test = new StringRemover("R-MR-MHelloR-M","R-M");
+		System.out.println("Remove:: R-MR-MHelloR-M, R-M");
     System.out.println(test);
     test.setRemover("sxsssxssxsxssexssxsesss", "x");
+		System.out.println("Remove :: sxsssxssxsxssexssxsesss, x");
     System.out.println(test);
     test.setRemover("fuxqwexqwertyxqwexqwertyrtyxqwertyrtyn", "qwerty");
+		System.out.println("Remove :: fuxqwexqwertyxqwexqwertyrtyxqwertyrtyn, qwerty");
     System.out.println(test);
 
 

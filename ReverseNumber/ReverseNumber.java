@@ -50,7 +50,7 @@ public class ReverseNumber
 		String stilp = number + "";
     String output = "";
 
-    for(int i = stilp.length() - 1; i > 0; i++)
+    for(int i = stilp.length() - 1; i >= 0; i--)
     {
       output += stilp.charAt(i);
     }
