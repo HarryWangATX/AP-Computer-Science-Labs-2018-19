@@ -83,8 +83,6 @@ public class Histogram
 	// we will return the numbers in the histogramArray one per line
 	public String toString()
 	{
-
-
 		// we will store the entire output in a String variable called output
 
 
