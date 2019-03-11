@@ -41,8 +41,7 @@ public class NumberShifter
 
 		for (int i =0; i < list.length; i++)
 		{
-			int x = (int)(Math.random()*10 + 1); // random number 1- to 10
-			list[i] = x;
+			list[i] = (int)(Math.random()*10 + 1);
 		}
 
 
@@ -53,8 +52,9 @@ public class NumberShifter
 
   public static String toString(int[] list)
   {
+		int[] second = shiftEm(list);
     String output = "";
-    for(int a : list)
+    for(int a : second)
     {
       output += a + " ";
     }
@@ -89,9 +89,9 @@ public class NumberShifter
 
 			// now swap the i and posOf7 elements
 
-			int temp = i;          // copy the ith element of list to a temp variable
+			int temp = list[i];          // copy the ith element of list to a temp variable
 			list[i] = list[posOf7];    // copy the posOf7 element to the ith position
-			list[posOf7] = temp;         // copy the temp element to the posOf7 position
+			list[posOf7] = temp;           // copy the temp element to the posOf7 position
 
 		}
 

@@ -36,11 +36,11 @@ public class NumberShifterRunner
 		{
 			// make the array and print it
 			array = NumberShifter.makeLucky7Array(10);
-			System.out.println("Original Array = "+ NumberShifter.toString(array));  //see word doc for help here
+			System.out.println("Original Array = "+ Arrays.toString(array));  //see word doc for help here
 
 			// adjust (shift) the array and print it
 			array = NumberShifter.shiftEm(array);
-			System.out.println("Shifted Array  = "+NumberShifter.toString(array));
+			System.out.println("Shifted Array  = " + Arrays.toString(NumberShifter.shiftEm(array)));
 
 			System.out.println();
 			System.out.println();

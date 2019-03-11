@@ -41,9 +41,9 @@ public class NumberSearch
 	//			return ??????;
 	//	}
 
-    for(int i = numArray.length-1; i >= 0; i--)
+    for(int i = 0; i < numArray.length; i++)
     {
-      if(numArray[i] < searchNum)
+      if(numArray[i] > searchNum)
       {
         return numArray[i];
       }
