@@ -37,14 +37,15 @@ public class ArrayListFunHouseRunner
 
 
 
+System.out.println("factors of 9");
 		System.out.println(ArrayListFunHouse.getListOfFactors(9));
-
+System.out.println("factors of 23");
 		System.out.println(ArrayListFunHouse.getListOfFactors(23));
-
+System.out.println("factors of 50");
 		System.out.println(ArrayListFunHouse.getListOfFactors(50));
-
+System.out.println("factors of 100");
 		System.out.println(ArrayListFunHouse.getListOfFactors(100));
-
+System.out.println("factors of 762");
 		System.out.println(ArrayListFunHouse.getListOfFactors(762));
 
 		System.out.println();

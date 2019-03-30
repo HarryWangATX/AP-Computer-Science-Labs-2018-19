@@ -64,7 +64,7 @@ public class Student
 	{
 		// FINISH ME
 
-		return getSum()/grades.size();  // replace me
+		return (getSum()+0.0)/grades.size();  // replace me
 	}
 
 

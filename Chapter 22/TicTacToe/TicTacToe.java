@@ -122,6 +122,18 @@ public class TicTacToe
       {
 				return "X wins diagonally";
       }
+      else if(checkDiagonal1('O'))
+      {
+        return "O wins diagonally";
+      }
+    }
+
+		for (int r=0; r<=2; r++)
+    {
+			if (checkDiagonal2('X'))
+      {
+				return "X wins diagonally";
+      }
       else if(checkDiagonal2('O'))
       {
         return "O wins diagonally";
