@@ -27,7 +27,7 @@ public class TriangleWord
 			// so you will need an inside loop to execute row times
 			for (int k=1;  k <= i;  k++)
 			{
-				System.out.print(word);
+				System.out.print(word.substring(0,i));
 			}
 			System.out.println();
 		}
