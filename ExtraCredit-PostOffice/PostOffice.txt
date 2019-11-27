@@ -1,0 +1,40 @@
+Post Office
+
+Program Name: PostOffice.java          Input File: postoffice.dat
+
+Mark has a business that ships widgets to cities all over the country. If the 
+box he ships weighs 5 pounds or more, the cost of shipping increases significantly. 
+The boxes he uses to ship his widgets weigh 0.4 pounds each and the widgets vary 
+in weight. You are to write a program to help him with his shipping by determining 
+if the package containing the widgets listed is overweight or not.
+
+
+Input
+=====
+The first line of input will contain a single integer n that indicates the number 
+of boxes he needs to ship. Each of the following n lines will contain a list of 
+weights of the widgets for that particular box. Each of the weights will be in 
+pounds, rounded to hundredths and separated by a space.  There will be 7 widget
+weights total on each line.
+
+
+Output
+======
+For each package, and on a separate line, print OK if the package weighs less 
+than 5 pounds or print OVERWEIGHT if the package weighs 5 pounds or more.
+
+
+Example Input File
+==================
+3
+1.21 0.33 1.42 0.90 0.45 1.30 0.30
+1.20 0.59 1.23 0.99 0.05 0.10 0.07
+0.62 0.61 0.63 0.64 0.65 0.66 2.67
+
+Example Output to Screen
+========================
+OVERWEIGHT
+OK
+OVERWEIGHT  
+
+ 
