@@ -1,0 +1,45 @@
+ValidPhoneNumber
+
+
+Program Name: ValidPhoneNumber.java		Input File: ValidPhoneNumber.dat
+
+
+This program will read in several phone potential phone numbers and determine
+if the phone numbers are Valid or Invalid.  A valid phone number is either 12
+characters or 14 characters.  It can have () or not.
+Valid Examples:  (512)-321-5678
+                   512-321-5678
+Invalid Examples: [512]-321-5678 
+                  (512).321.5678
+                   512.321.5678
+                   512-32-5678
+
+Input
+=====
+The first line contains the number of data sets (phone numbers).
+The next several lines of text may or may not be a valid phone number.
+
+
+Example Input File
+==================
+5
+(512)-779-15
+(512)-789-6405
+512-789-6405
+51-681-2217
+512.682,4356
+512-32-5678
+
+
+Example Output to Screen
+========================
+Invalid
+Valid
+Valid
+Invalid
+Invalid
+Invalid
+
+
+
+
